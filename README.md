@@ -18,7 +18,7 @@
     - 3.[LSPatch](https://github.com/LSPosed/LSPatch) 内置模式(便携模式 或者这个)
     - 4.[FPA](https://lzlgzs.lanzouq.com/b03dx2vf4d) 免root(支持安卓15)
 
-## 使用教程
+### 使用教程
     - <a href="https://b23.tv/u3FFj0h">点击查看</a>下载最新版本插件
     - <a href="https://github.com/Xposed-Modules-Repo/com.xchat/releases">点击此处</a>下载最新版本插件
       
