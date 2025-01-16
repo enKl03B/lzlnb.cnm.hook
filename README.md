@@ -19,7 +19,8 @@
     - 4.[FPA](https://lzlgzs.lanzouq.com/b03dx2vf4d) 免root(支持安卓15)
 
 ## 使用教程
-    - <a href="https://b23.tv/u3FFj0h">点击查看</a>
+    - <a href="https://b23.tv/u3FFj0h">点击查看</a>下载最新版本插件
+    - <a href="https://github.com/Xposed-Modules-Repo/com.xchat/releases">点击此处</a>下载最新版本插件
       
 ## 功能列表
 - [x] 自定义名片
@@ -45,4 +46,4 @@
 - [x] 自定义主页等级
 - [x] QQ瘦身（清理QQ内存）
 
-## 具体功能还有很多具体自测
+## 具体功能还有很多自测
